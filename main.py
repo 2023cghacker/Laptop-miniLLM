@@ -182,7 +182,7 @@ class MyDataset(Dataset):
         # 每一行的格式是{"id": 0, "ended": true, "length": 138, "text": "These girlfriends deserves a special mention for going that extra mile, hopefully doesn't set too many guys off on the path towards outrageous demands.\n\n1. She knows the severity of man-flu\n\n2. All fun and games is all good\n\n3. A voucher that says 'I love you'\n\n4. When arguments don't drag on forever.\n\n5. Providing everything he needs.\n\n6. Very understanding\n\n7. As awesome a gesture as this is, we are worried about this man's cooking skills.\n\n8. Nice cake\n\n8. Fair bargaining\n\n9. Excellent gift choice\n\n10. Very thoughtful"}
         self.enc = tiktoken.get_encoding("gpt2")
         self.block_size = block_size
-        self.max_lines = 100
+        self.max_lines = 1000
         self.encoded_data = []
 
         raw_data = []
