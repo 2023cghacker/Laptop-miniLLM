@@ -1,7 +1,7 @@
 # 🚀 MiniLLM-QuickStart  (中文)
 
 ## 0. 项目简介
-MiniLLM 是一个超简单的大语言模型实现，代码简洁易懂，可在个人笔记本电脑上运行。
+MiniLLM 是一个超简单的大语言模型实现，代码简洁易懂，没有复杂的文件结构，可在个人笔记本电脑上运行。
 
 ## 1. 快速开始
 只需运行 main.py 文件，即可开启你的 大语言模型 之旅！🚀
@@ -26,7 +26,7 @@ MiniLLM 是一个超简单的大语言模型实现，代码简洁易懂，可在
 # 🚀 MiniLLM-QuickStart (English)
 
 ## 0. Project Introduction
-MiniLLM is a super simple implementation of a large language model, with concise and easy-to-understand code, and can be run on a personal laptop.
+MiniLLM is an extremely simple implementation of a large language model, with clean and easy-to-understand code, no complex file structure, and can be run on personal laptops.
 
 ## 1.  Quick Start
 No complex file structures or nonsense，just run the main.py file to start your LLM journey! 🚀
